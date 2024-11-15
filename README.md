@@ -1,3 +1,6 @@
+# Important Notes for Unity
+Workaround/solution: I used the following version - 10.1.0, by manually downloading the source ZIP and unpacking it to modules/CppCommon/modules/fmt/ (replacing the original files entirely). With that version fbec builds without errors.
+
 # Fast Binary Encoding (FBE)
 
 [![Awesome C++](https://awesome.re/badge.svg)](https://github.com/fffaraz/awesome-cpp)
